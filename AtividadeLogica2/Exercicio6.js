@@ -5,4 +5,4 @@ function diasEmHoras(dia) {
     const horas = dia * 24
     return `${dia} dias equivalem a ${horas} horas.`
 }
-console.log(diasEmHoras(34))
+console.log(diasEmHoras(34))//34 dias equivalem a 816 horas.

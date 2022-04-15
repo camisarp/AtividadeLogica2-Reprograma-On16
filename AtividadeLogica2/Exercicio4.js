@@ -2,10 +2,9 @@
 
 function parOuImpar (num){
     if (num %2 == 0){
-        return 'É par!'
+        return 'Esse número é par!'
     } else {
-        return 'É impar!'
+        return 'Esse número é ímpar!'
     }
 }
-console.log(parOuImpar(32))
-console.log(parOuImpar(53))
+console.log(parOuImpar(34))//Esse número é par!

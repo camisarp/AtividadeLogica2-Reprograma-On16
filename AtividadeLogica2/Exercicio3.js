@@ -15,4 +15,4 @@ function calculaMedia (nota1, nota2, nota3) {
   } else (media < 5)
     return 'Você está reprovado(a)!'
 }
-console.log(calculaMedia (3, 9, 5))
+console.log(calculaMedia (3, 9, 5))//Você está em recuperação!

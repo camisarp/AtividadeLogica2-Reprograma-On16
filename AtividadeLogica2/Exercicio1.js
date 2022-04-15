@@ -28,4 +28,4 @@ function diaDaSemana(dia) {
             return 'Esse dia não foi encontrado.'
     }
 }
-console.log (diaDaSemana(3))
+console.log (diaDaSemana(3))//Esse dia é uma quarta-feira!
